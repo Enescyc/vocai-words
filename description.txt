@@ -1,0 +1,117 @@
+---
+  VOCAI.WORDS - App Store Description
+
+  TRANSFORM YOUR VOCABULARY LEARNING WITH AI
+
+  Master new words faster with vocai.words - the intelligent vocabulary learning app that uses artificial intelligence to create personalized learning experiences tailored to your level and interests.
+
+  🎯 KEY FEATURES
+
+  AI-Powered Word Enrichment
+  • Instant translations to your native language
+  • Multiple contextual definitions with examples
+  • Synonyms, antonyms, and word relationships
+  • Native pronunciation guides with audio
+  • Memory tips and cultural notes
+  • Smart spaced repetition system
+
+  Personalized Story Generation
+  • AI creates custom stories using your vocabulary
+  • Choose from multiple genres and difficulty levels
+  • Adjustable story length (300-1000 words)
+  • Interactive reading with word translation
+  • Audio playback for listening practice
+  • Comprehension quizzes to test understanding
+
+  Interactive Learning Games
+  • 9 engaging game modes including:
+  - Flashcards for quick review
+  - Multiple choice challenges
+  - Listening comprehension
+  - Fill-in-the-blank exercises
+  - Word matching games
+  - Sentence builder
+  - Word scramble
+  - Speed translation
+  - Synonym & antonym practice
+  • Adaptive difficulty based on your progress
+  • Track your performance and mastery
+
+  Smart Progress Tracking
+  • Detailed statistics dashboard
+  • Achievement system with unlockable badges
+  • Activity heatmaps and learning streaks
+  • Mastery level tracking for each word
+  • Personalized recommendations based on weak areas
+  • Level progression system with XP
+
+  💎 SUBSCRIPTION PLANS
+
+  Starter (Free)
+  • 25 AI word enrichments/month
+  • 5 AI-generated stories/month
+  • 10 word recommendations/month
+  • Basic game modes
+  • Perfect for trying the app
+
+  Learner ($4.99/month)
+  • 180 AI word enrichments/month
+  • 30 AI-generated stories/month
+  • 90 word recommendations/month
+  • All game modes unlocked
+  • Priority support
+  • Ideal for serious learners
+
+  Master ($9.99/month)
+  • 300 AI word enrichments/month
+  • 100 AI-generated stories/month
+  • 200 word recommendations/month
+  • All features unlocked
+  • Priority support
+  • Early access to new features
+  • Best value for power users
+
+  Subscription Details:
+  • Payment charged to iTunes Account at confirmation of purchase
+  • Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period
+  • Account charged for renewal within 24 hours prior to the end of the current period
+  • Manage subscriptions and turn off auto-renewal in Account Settings after purchase
+  • Any unused portion of a free trial period forfeited when purchasing a subscription
+
+  🌟 WHY VOCAI.WORDS?
+
+  ✓ Personalized Learning - AI adapts to your level and interests
+  ✓ Comprehensive Content - More than just definitions
+  ✓ Engaging Practice - Multiple game modes keep learning fun
+  ✓ Real Results - Spaced repetition for long-term retention
+  ✓ Progress Tracking - See your improvement over time
+  ✓ Beautiful Design - Modern, intuitive interface
+  ✓ Offline Support - Access your words anytime
+
+  📱 PERFECT FOR:
+
+  • Language learners expanding their vocabulary
+  • Students preparing for standardized tests
+  • Professionals improving business communication
+  • Book readers encountering new words
+  • Anyone passionate about language learning
+
+  🔒 PRIVACY & SECURITY
+
+  Your privacy is our priority. We use industry-standard encryption to protect your data. Read our full privacy policy for details.
+
+  📞 SUPPORT
+
+  Need help? Contact us at: support@vocaiwords.com
+  We're here to help you succeed in your learning journey!
+
+  🔗 LEGAL
+
+  Privacy Policy: https://enescyc.github.io/vocai-words/privacy.html
+  Terms of Use: https://enescyc.github.io/vocai-words/terms.html
+  EULA: Standard Apple Terms of Use (EULA)
+
+  ---
+  Download vocai.words today and experience the future of vocabulary learning!
+
+  ---
